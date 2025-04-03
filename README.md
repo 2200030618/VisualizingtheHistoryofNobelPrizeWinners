@@ -22,18 +22,26 @@ Several visualizations were created to analyze and interpret the data:
 #### **Nobel Prizes Awarded Per Year**
 - A histogram is plotted to show the number of Nobel Prizes awarded each year from 1901 to 2023.
 - A Kernel Density Estimate (KDE) plot is added for smooth visualization.
+  ![No_of_prizes_awarded_per_year](https://github.com/user-attachments/assets/fc93b2ba-6b3e-421e-981c-f6fa03ab1636)
+
 
 #### **Distribution of Nobel Prizes by Category**
 - A count plot shows the number of Nobel Prizes awarded per category (e.g., Physics, Chemistry, Peace, etc.).
+  ![category](https://github.com/user-attachments/assets/957229ce-b77a-48a9-9f58-b49907376cbb)
+
 
 #### **Gender Distribution of Nobel Laureates**
 - A count plot visualizes the number of male and female Nobel Prize winners.
+![gender_distribution](https://github.com/user-attachments/assets/e605c48f-b640-4075-8480-b3e761a7f846)
 
 #### **Top 10 Countries with the Most Nobel Laureates**
 - A bar plot is created to display the top 10 countries with the highest number of Nobel Prize winners.
+  ![countries](https://github.com/user-attachments/assets/af6f0b8a-96c3-45ce-9f9c-5da458dc69a7)
+
 
 #### **Gender Trends Over Time**
 - A line plot is generated to track the number of male and female laureates over time, highlighting gender trends in Nobel Prize awards.
+![gender_trends](https://github.com/user-attachments/assets/4d484e97-b13d-4578-ac4a-17fa54d3a9f3)
 
 ## Key Findings
 - The number of Nobel Prizes awarded has varied over time, with notable fluctuations.

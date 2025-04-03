@@ -1,4 +1,4 @@
-# Nobel Prize Analysis Project
+# Visualizing the History of Nobel Prize Winners
 
 ## Overview
 This project explores and analyzes the Nobel Prize dataset, covering awardees from 1901 to 2023. The dataset is sourced from the Nobel Prize API and is available in the `nobel.csv` file. The goal of this project is to answer key questions about Nobel Prize winners, including trends in award distribution, gender representation, and geographical distribution of laureates.
